@@ -24,6 +24,7 @@
 		FB3F422723302B3A008DA694 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB3F422923302B3A008DA694 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FB3F423023307921008DA694 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../.Trash/Assets.xcassets; sourceTree = "<group>"; };
+		FB3F423223308566008DA694 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				FB3F421B23302B3A008DA694 /* AppDelegate.swift */,
+				FB3F423223308566008DA694 /* Assets.xcassets */,
 				FB3F421D23302B3A008DA694 /* art.scnassets */,
 				FB3F421F23302B3A008DA694 /* ViewController.swift */,
 				FB3F422123302B3A008DA694 /* Main.storyboard */,
