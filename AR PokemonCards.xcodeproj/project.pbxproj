@@ -11,8 +11,8 @@
 		FB3F421E23302B3A008DA694 /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = FB3F421D23302B3A008DA694 /* art.scnassets */; };
 		FB3F422023302B3A008DA694 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB3F421F23302B3A008DA694 /* ViewController.swift */; };
 		FB3F422323302B3A008DA694 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB3F422123302B3A008DA694 /* Main.storyboard */; };
-		FB3F422523302B3A008DA694 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB3F422423302B3A008DA694 /* Assets.xcassets */; };
 		FB3F422823302B3A008DA694 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FB3F422623302B3A008DA694 /* LaunchScreen.storyboard */; };
+		FB3F423123307921008DA694 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FB3F423023307921008DA694 /* Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,9 +21,9 @@
 		FB3F421D23302B3A008DA694 /* art.scnassets */ = {isa = PBXFileReference; lastKnownFileType = wrapper.scnassets; path = art.scnassets; sourceTree = "<group>"; };
 		FB3F421F23302B3A008DA694 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FB3F422223302B3A008DA694 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FB3F422423302B3A008DA694 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FB3F422723302B3A008DA694 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FB3F422923302B3A008DA694 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FB3F423023307921008DA694 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = ../../../.Trash/Assets.xcassets; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +40,7 @@
 		FB3F420F23302B3A008DA694 = {
 			isa = PBXGroup;
 			children = (
+				FB3F423023307921008DA694 /* Assets.xcassets */,
 				FB3F421A23302B3A008DA694 /* AR PokemonCards */,
 				FB3F421923302B3A008DA694 /* Products */,
 			);
@@ -60,7 +61,6 @@
 				FB3F421D23302B3A008DA694 /* art.scnassets */,
 				FB3F421F23302B3A008DA694 /* ViewController.swift */,
 				FB3F422123302B3A008DA694 /* Main.storyboard */,
-				FB3F422423302B3A008DA694 /* Assets.xcassets */,
 				FB3F422623302B3A008DA694 /* LaunchScreen.storyboard */,
 				FB3F422923302B3A008DA694 /* Info.plist */,
 			);
@@ -127,7 +127,7 @@
 			files = (
 				FB3F421E23302B3A008DA694 /* art.scnassets in Resources */,
 				FB3F422823302B3A008DA694 /* LaunchScreen.storyboard in Resources */,
-				FB3F422523302B3A008DA694 /* Assets.xcassets in Resources */,
+				FB3F423123307921008DA694 /* Assets.xcassets in Resources */,
 				FB3F422323302B3A008DA694 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
